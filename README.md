@@ -1,5 +1,9 @@
 # Juego de Adivina el Número
 
+<p align="center" >
+     <img width="600" src="https://th.bing.com/th/id/OIG3.O..D6rAiZ01KqKJFaQTu?pid=ImgGn">
+</p>
+
 Este es un sencillo juego de adivinar un número en el que el programa genera un número aleatorio entre 1 y 100, y el jugador debe adivinar cuál es. El programa proporciona pistas indicando si el número secreto es mayor o menor que el intento del jugador, y al final, muestra cuántos intentos le tomó al jugador adivinar correctamente.
 
 ## Instrucciones
